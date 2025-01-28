@@ -1,5 +1,5 @@
 Flask
 opencv-python
 mediapipe
-tensorflow (if using any ML models)
 numpy
+matplotlib
